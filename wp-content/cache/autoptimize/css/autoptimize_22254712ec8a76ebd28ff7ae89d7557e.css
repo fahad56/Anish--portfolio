@@ -3826,19 +3826,19 @@ ul.wp-block-rss.is-grid li {
   color: #02ab6c;
 }
 .wp-block-social-links.is-style-logos-only .wp-social-link-meetup {
-  color: #f6405f;
+  color: #1e9014;
 }
 .wp-block-social-links.is-style-logos-only .wp-social-link-patreon {
-  color: #ff424d;
+  color: #31b413;
 }
 .wp-block-social-links.is-style-logos-only .wp-social-link-pinterest {
-  color: #e60122;
+  color: #0e975c;
 }
 .wp-block-social-links.is-style-logos-only .wp-social-link-pocket {
-  color: #ef4155;
+  color: #109919;
 }
 .wp-block-social-links.is-style-logos-only .wp-social-link-reddit {
-  color: #ff4500;
+  color: #319c13;
 }
 .wp-block-social-links.is-style-logos-only .wp-social-link-skype {
   color: #0478d7;
@@ -3885,10 +3885,10 @@ ul.wp-block-rss.is-grid li {
   color: #000;
 }
 .wp-block-social-links.is-style-logos-only .wp-social-link-yelp {
-  color: #d32422;
+  color: #18b510;
 }
 .wp-block-social-links.is-style-logos-only .wp-social-link-youtube {
-  color: red;
+  color: rgb(10, 139, 17);
 }
 .wp-block-social-links.is-style-pill-shape .wp-social-link {
   width: auto;
