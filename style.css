@@ -6216,14 +6216,13 @@ body.fullstretched .article {
   background: 0 0;
 }
 
-.Industries {
+.elementor-widget-container .Industries {
   color: orange !important;
 }
 
-.Qualification {
+.elementor-widget-container .Qualification {
   color: orange !important;
 }
-
 
 .wp-block-separator {
   background: 0 0;
