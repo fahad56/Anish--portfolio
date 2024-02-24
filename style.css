@@ -6217,11 +6217,11 @@ body.fullstretched .article {
 }
 
 .Industries {
-  color: orange;
+  color: orange !important;
 }
 
 .Qualification {
-  color: orange;
+  color: orange !important;
 }
 
 
