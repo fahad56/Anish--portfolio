@@ -4169,25 +4169,25 @@ a[data-fn].fn:after {
   color: #313131;
 }
 :root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background {
-  background: linear-gradient(135deg, #00d084, #0693e3);
+  background: linear-gradient(135deg, #316cd2, #0693e3);
 }
 :root .has-purple-crush-gradient-background {
-  background: linear-gradient(135deg, #34e2e4, #4721fb 50%, #ab1dfe);
+  background: linear-gradient(135deg, #34e2e4, #316cd2 50%, #ab1dfe);
 }
 :root .has-hazy-dawn-gradient-background {
-  background: linear-gradient(135deg, #faaca8, #dad0ec);
+  background: linear-gradient(135deg, #316cd2, #dad0ec);
 }
 :root .has-subdued-olive-gradient-background {
-  background: linear-gradient(135deg, #fafae1, #67a671);
+  background: linear-gradient(135deg, #fafae1, #316cd2);
 }
 :root .has-atomic-cream-gradient-background {
-  background: linear-gradient(135deg, #b4b0aa, #004a59);
+  background: linear-gradient(135deg, #b4b0aa, #316cd2);
 }
 :root .has-nightshade-gradient-background {
-  background: linear-gradient(135deg, #330968, #31cdcf);
+  background: linear-gradient(135deg, #330968, #316cd2);
 }
 :root .has-midnight-gradient-background {
-  background: linear-gradient(135deg, #020381, #2874fc);
+  background: linear-gradient(135deg, #020381, #316cd2);
 }
 .has-regular-font-size {
   font-size: 1em;
@@ -4479,9 +4479,9 @@ body {
   --wp--preset--color--pale-pink: #f78da7;
   --wp--preset--color--vivid-red: #cf2e2e;
   --wp--preset--color--luminous-vivid-orange: #ff6900;
-  --wp--preset--color--luminous-vivid-amber: #00fc58;
+  --wp--preset--color--luminous-vivid-amber: #316cd2;
   --wp--preset--color--light-green-cyan: #7bdcb5;
-  --wp--preset--color--vivid-green-cyan: #00d084;
+  --wp--preset--color--vivid-green-cyan: #316cd2;
   --wp--preset--color--pale-cyan-blue: #8ed1fc;
   --wp--preset--color--vivid-cyan-blue: #0693e3;
   --wp--preset--color--vivid-purple: #9b51e0;
@@ -4859,7 +4859,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
-  color: #20bb20;
+  color: #316cd2;
 }
 *,
 *:before,
@@ -4909,7 +4909,7 @@ h1 {
   font-size: 2em;
 }
 mark {
-  background: rgb(76, 193, 34);
+  background: #316cd2;
   color: #000;
 }
 small {
@@ -5094,7 +5094,7 @@ acronym {
 }
 mark,
 ins {
-  background: #fff9c0;
+  background: #316cd2;
   text-decoration: none;
 }
 big {
@@ -5141,7 +5141,7 @@ blockquote p {
   margin-bottom: 10px;
 }
 hr {
-  background-color: #ccc;
+  background-color: #316cd2;
   border: 0;
   height: 1px;
   margin-bottom: 1.5em;
@@ -5946,11 +5946,11 @@ p {
 }
 a {
   text-decoration: none;
-  color: #0274be;
+  color: #316cd2;
   transition: background-color, color 0.2s linear;
 }
 a:hover {
-  color: #0274be;
+  color: #316cd2;
 }
 a:link,
 a:visited,
@@ -6029,7 +6029,7 @@ nav #searchform fieldset {
   font-size: 14px;
 }
 #site-footer #searchform input[type="submit"]:hover {
-  background: #0274be;
+  background: #316cd2;
 }
 .sbutton {
   padding: 8px 12px 10px;
@@ -6080,7 +6080,7 @@ nav #searchform fieldset {
   border-radius: 3px;
   box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
   clip: auto !important;
-  color: #21759b;
+  color: #316cd2;
   display: block;
   font-size: 14px;
   font-size: 0.875rem;
@@ -7009,7 +7009,7 @@ object {
   line-height: 1;
   text-decoration: none;
   padding: 10px 13px;
-  background: #0274be;
+  background: #316cd2;
   min-width: 36px;
   box-sizing: border-box;
   border-radius: 3px;
@@ -7112,16 +7112,16 @@ object {
   background: #ef922f;
 }
 .social-profile-icons .social-twitter a {
-  background: #40bff5;
+  background: #316cd2;
 }
 .social-profile-icons .social-facebook a {
-  background: #5d82d1;
+  background: #316cd2;
 }
 .social-profile-icons .social-gplus a {
   background: #eb5e4c;
 }
 .social-profile-icons .social-vimeo a {
-  background: #35c6ea;
+  background: #316cd2;
 }
 .social-profile-icons .social-dribbble a {
   background: #f7659c;
@@ -7139,13 +7139,13 @@ object {
   background: #e13138;
 }
 .social-profile-icons .social-linkedin a {
-  background: #238cc8;
+  background: #316cd2;
 }
 .social-profile-icons .social-github a {
   background: #b5a470;
 }
 .social-profile-icons .social-email a {
-  background: #1d90dd;
+  background: #316cd2;
 }
 .social-profile-icons .social-behance a {
   background: #1879fd;
@@ -7521,10 +7521,10 @@ a,
 footer .tagcloud a:hover,
 .title a,
 .related-posts .post:hover .title {
-  color: #beb902;
+  color: #316cd2;
 }
 #navigation ul li.current-menu-item a {
-  color: #0274be !important;
+  color: #316cd2 !important;
 }
 .nav-previous a:hover,
 .nav-next a:hover,
@@ -7561,7 +7561,7 @@ footer .tagcloud a:hover,
 .woocommerce-page #content nav.woocommerce-pagination ul li a:hover,
 #searchform input[type="submit"],
 .woocommerce-product-search input[type="submit"] {
-  background-color: #0274be;
+  background-color: #316cd2;
 }
 .woocommerce nav.woocommerce-pagination ul li span.current,
 .woocommerce-page nav.woocommerce-pagination ul li span.current,
@@ -7577,10 +7577,10 @@ footer .tagcloud a:hover,
 .woocommerce-page #content nav.woocommerce-pagination ul li a:focus,
 .pagination .current,
 .tagcloud a {
-  border-color: #0274be;
+  border-color: #316cd2;
 }
 .corner {
-  border-color: transparent transparent #0274be;
+  border-color: transparent transparent #316cd2;
 }
 footer,
 #commentform input#submit:hover,
@@ -8660,13 +8660,13 @@ textarea.parsley-error {
 .caldera-grid .alert-success {
   background-color: #dff0d8;
   border-color: #a3d48e;
-  color: #3c763d;
+  color: #316cd2;
 }
 .caldera-grid .alert-success hr {
   border-top-color: #93cd7c;
 }
 .caldera-grid .alert-success .alert-link {
-  color: #2b542c;
+  color: #316cd2;
 }
 .caldera-grid .alert-info {
   background-color: #d9edf7;
@@ -8677,15 +8677,15 @@ textarea.parsley-error {
   border-top-color: #70bbe1;
 }
 .caldera-grid .alert-info .alert-link {
-  color: #245269;
+  color: #316cd2;
 }
 .caldera-grid .alert-warning {
   background-color: #f9edbe;
-  border-color: #f0c36d;
+  border-color: #316cd2;
   color: #333;
 }
 .caldera-grid .alert-warning hr {
-  border-top-color: #eeb956;
+  border-top-color: #316cd2;
 }
 .caldera-grid .alert-warning .alert-link {
   color: #1a1a1a;
@@ -8694,7 +8694,7 @@ textarea.parsley-error {
 .caldera-grid .alert-error {
   background-color: #f2dede;
   border-color: #d59595;
-  color: #a94442;
+  color: #316cd2;
 }
 .caldera-grid .alert-danger hr,
 .caldera-grid .alert-error hr {
@@ -8702,7 +8702,7 @@ textarea.parsley-error {
 }
 .caldera-grid .alert-danger .alert-link,
 .caldera-grid .alert-error .alert-link {
-  color: #843534;
+  color: #316cd2;
 }
 .caldera-grid .alert-danger,
 .caldera-grid .alert-error,
@@ -8713,7 +8713,7 @@ textarea.parsley-error {
 }
 .caldera-grid .has-error .form-control:focus,
 .caldera-grid .has-error .form-control:hover {
-  border-color: #dd4b39;
+  border-color: #316cd2;
 }
 .caldera-grid.cf_processing {
   background: url(//muradmurad.com/wp-content/plugins/caldera-forms/assets/build/css/../images/loading.gif)
@@ -8782,7 +8782,7 @@ textarea.parsley-error {
   margin: 0.67em 0;
 }
 .caldera-grid mark {
-  background: #ff0;
+  background: #316cd2;
   color: #000;
 }
 .caldera-grid small {
